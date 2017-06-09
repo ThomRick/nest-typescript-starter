@@ -1,5 +1,5 @@
-import { NestFactory } from 'nest.js';
-import { ApplicationModule } from './modules/app.module';
+import {NestFactory} from '@nestjs/core';
+import { ApplicationModule } from './app/app.module';
 
 const app = NestFactory.create(ApplicationModule);
 
