@@ -11,11 +11,11 @@
     "serve": "nodemon -e ts --watch src --exec \"npm run build && npm run start\" "
   },
   "dependencies": {
-    "@nestjs/common": "^3.0.3",
-    "@nestjs/core": "^3.0.5",
-    "@nestjs/microservices": "^3.0.2",
-    "@nestjs/testing": "^3.0.3",
-    "@nestjs/websockets": "^3.0.1",
+    "@nestjs/common": "^3.0.0",
+    "@nestjs/core": "^3.0.1",
+    "@nestjs/microservices": "^3.0.1",
+    "@nestjs/testing": "^3.0.0",
+    "@nestjs/websockets": "^3.0.0",
     "reflect-metadata": "^0.1.10",
     "rxjs": "^5.4.2"
   },
