@@ -1,3 +1,4 @@
 {
-  "language": "ts"
+  "language": "ts",
+  "entryFile": "src/main.ts"
 }
